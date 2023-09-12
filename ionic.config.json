@@ -1,0 +1,8 @@
+{
+  "name": "MyBilling",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "4ec27299"
+}
